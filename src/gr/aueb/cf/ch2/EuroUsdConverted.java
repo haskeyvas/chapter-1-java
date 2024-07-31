@@ -26,5 +26,7 @@ public class EuroUsdConverted {
         //εκτύπωση
         System.out.printf("%d euros = %d usa cents = %d usa dollars & %d usa cents" ,
                 inputEuros, totalUsaCents, usaDollars, usaCents);
+
+
     }
 }
